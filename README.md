@@ -17,7 +17,7 @@ A fun and interactive virtual drum kit built with **HTML, CSS, and JavaScript**.
 ## 🖥️ Installation & Usage  
 1. Clone this repository:  
    ```sh
-   git clone https://github.com/your-username/JS-Drum-Kit.git
+   git clone git@github.com:tanzim-ikram/JS-Drum-Kit.git
    ```
 2. Open `index.html` in your browser.  
 3. Start drumming! 🎵  
